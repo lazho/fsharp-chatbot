@@ -1,3 +1,8 @@
+(* Author: lazho
+ * A program that builds a dictionary to represent a markov chain
+ * based on given sample text. It can make random sentences that
+ * half make sense.
+ *)
 module chatbot
 
 (* A single node of a markov chain *)
